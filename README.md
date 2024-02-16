@@ -1,2 +1,2 @@
 ﻿# python-stuff
-first project in python !
+random lil things in python !
