@@ -25,10 +25,15 @@ if __name__ == "__main__":
             choice = input("add lemon until heavy,press 1 \n")
             if choice == '1':
                 Basket1.add_number()
+                Basket1.add_mass()
+                
                 
                 if Basket1.number == 5:
                     Basket1.add_mass()
                     break
-            Basket1.add_mass()
+            
+            else:
+                print("Error")
+           
 
 
