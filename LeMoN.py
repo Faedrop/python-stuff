@@ -1,4 +1,4 @@
-# i basically want to fill or empty a basket of lemons 
+# i basically want to fill a basket of lemons 
 class Basket:
     container =  "LeMon"
     color = "yellow"
